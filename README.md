@@ -8,7 +8,7 @@ The entire dataset text is pre-processed and an inverted index is created after 
 
 Example:
 
-```json
+```
 documents = {
   1: "<abstract>hello world something</abstract>",
   2: "<abstract>hola mundo</abstract>",
